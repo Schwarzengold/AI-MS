@@ -32,4 +32,5 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 
+# START
 python energy_regression.py --data energy_usage_plus.csv
