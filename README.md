@@ -21,9 +21,6 @@ This project builds and evaluates simple linear regression models to forecast el
 
 ## Installation
 
-git clone https://github.com/<your_user>/<repo_name>.git
-cd <repo_name>
-
 python -m venv .venv
 
 # Windows
